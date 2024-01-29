@@ -16,11 +16,9 @@ Computer Science Professor
 
 # The Carputer:
 
-## A study in the design, construction, and implementation of a
+## A study in the design, construction, and implementation of a vehicle based computer system.
 
-## vehicle based computer system.
-
-## Created by: Je’aime H. Powell
+### Created by: Je’aime H. Powell
 
 
 ## Introduction
@@ -118,9 +116,7 @@ specific amperages and voltages which if not maintained can plague a computer wi
 lockups and/or damage. The most direct response to maintain the correct wattage and
 voltage is to use a standard ATX (Advanced Technology Expansion) computer power
 supply unit (PSU). The obvious problem this decision creates is how to take the ~12VDC
-from a car battery and change it to ~120VAC (Volts Alternating Current) for a standard
-
-## 250 watt ATX power supply?
+from a car battery and change it to ~120VAC (Volts Alternating Current) for a standard 250 watt ATX power supply?
 
 
 The answer to this question came in the form of a device called a power inverter. An
@@ -139,9 +135,7 @@ first considered. Although this is viable and very economical, the side effect o
 solder could be a burned motherboard. After much consideration it was decided to
 purchase a 300-watt pre-built inverter. On the plus side of purchasing a power inverter is
 the fact that the inverter comes with a heat sink large enough to disperse the access heat
-evenly. The fact that the inverter will have a manufacturers warranty as a guarantee is
-
-## also a great control when variables are in abundance in this project.
+evenly. The fact that the inverter will have a manufacturers warranty as a guarantee is also a great control when variables are in abundance in this project.
 
 ## Input
 

@@ -35,9 +35,7 @@ This thesis will not cover advanced circuitry design, advanced programming techn
 or advanced software use techniques. Third parties to whom this project has no affiliation
 will have created some components and software. Due to this fact detailed schematics
 and or source code may not always be available. This thesis is a study in the integration
-of available equipment, materials, and software, not the creation of a Carputer from raw
-
-## materials.
+of available equipment, materials, and software, not the creation of a Carputer from raw materials.
 
 ## Components
 
@@ -46,6 +44,7 @@ used to control fuel-air mixtures or interior temperatures, the Carputer allows 
 movies, navigation, games, and any other function a standard home computer could
 provide. The Carputer will be composed of a variety of individual components to create
 
+![Stage3](pictures/stage3.png)
 
 one seamless unit. This unit will control all aspects of entertainment in the vehicle. This
 chapter will break the Carputer into its individual parts including processing, input,

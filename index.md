@@ -1,19 +1,16 @@
 The Carputer: A study in the design, construction, and implementation of a vehicle based computer system.
-By
 
-Je’aime Henri Powell^
+By: Je’aime Henri Powell
 
-A Thesis submitted to^
-
-The Director of the Honors Program and the Honors Council of^
-In partial satisfaction of the requirements for theElizabeth City State University^
+A Thesis submitted to The Director of the Honors Program and the Honors Council of
+In partial satisfaction of the requirements for the Elizabeth City State University
 Honors Program
 
 February 4, 2004
 
 Thesis directed by
-Director of the Honors ProgramCarol C. Jones^
-Kristna Kulkarniand^
+Director of the Honors Program Carol C. Jones
+Kristna Kulkarni and
 Computer Science Professor
 
 
